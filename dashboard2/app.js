@@ -5,7 +5,7 @@
 
 // Firebase Configuration
 const firebaseConfig = {
-  apiKey: "",//your firebase api key
+  apiKey: "AIzaSyBmbjbm_yfQBoa2xwVGTS53LxUDaDI9TJw",//your firebase api key
   authDomain: "homeautomationesp32-bc13f.firebaseapp.com",
   databaseURL: "https://homeautomationesp32-bc13f-default-rtdb.asia-southeast1.firebasedatabase.app",
   projectId: "homeautomationesp32-bc13f"
@@ -825,3 +825,4 @@ document.addEventListener('keydown', e => {
 
 
 console.log('%c Smart Home v6.0 ', 'background: linear-gradient(135deg, #00d4ff, #7c3aed); color: white; padding: 10px 20px; border-radius: 8px; font-weight: bold; font-size: 14px;');
+
