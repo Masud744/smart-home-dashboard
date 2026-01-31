@@ -15,11 +15,11 @@ For demonstration and evaluation purposes only.
 Email: masud.nil74@gmail.com  
 Password: 123456
 
-## Related Repository (ESP32 Code & Implementation)
+## Related Repository (Code & Implementation)
 
 This dashboard works together with the ESP32 firmware and system implementation available here:
 
-https://github.com/Masud744/ESP32-based-Smart-Home-Automation-using-Firebase
+https://github.com/Masud744/IoT-Based-Home-Automation-and-Energy-Monitoring-System
 
 That repository contains:
 
